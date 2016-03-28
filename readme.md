@@ -24,8 +24,8 @@
     Don't we have summer vacations? What if someone wants to do an internship during that time?  
     ![internship_not_allowed](files/internships.png)
 1. How are the project topic alloted for Mtech TA?  
-    Do we get to choose our own, or the professors give us the specific topic or some list to choose from?  
-    Do we get to choose the area(a particular field) to do project in?
+    - Do we get to choose our own, or the professors give us the specific topic or some list to choose from?  
+    - Do we get to choose the area(a particular field) to do project in?
 1. While selecting courses for the sem, what all should one focus on?
 
 # Courses #
@@ -43,7 +43,7 @@
     https://www.cse.iitb.ac.in/page135
 
 
-# Others #
+# Placements #
 
 1. Is there an eligibility criteria for **undergrad %** for placements? If someone has a lower %/GPA that this in undergrad, is he debarred from campus placements?
 1. Do Mtech students get offers from abroad and how do Mtech students get pre placement offers ?
