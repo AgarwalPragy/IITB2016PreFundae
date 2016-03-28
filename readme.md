@@ -24,8 +24,8 @@
     Don't we have summer vacations? What if someone wants to do an internship during that time?  
     ![internship_not_allowed](files/internships.png)
 1. How are the project topic alloted for Mtech TA?  
-    Do we get to choose our own, or the professors give us the specific topic or some list to choose from?  
-    Do we get to choose the area(a particular field) to do project in?
+    - Do we get to choose our own, or the professors give us the specific topic or some list to choose from?  
+    - Do we get to choose the area(a particular field) to do project in?
 1. While selecting courses for the sem, what all should one focus on?
 
 # Courses #
