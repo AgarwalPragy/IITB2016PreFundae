@@ -2,15 +2,15 @@
 
 1. If someone wants to go for Ph.D abroad after Masters, does RA make their profile stronger as compared to TA? Opposite? Same?
 1. How different is the placement scenario b/w RA and TA?
-1. What is the total intake of MTech CS at IITB? Last year, how many students were admitted under TA category and RA category?
+1. What is the total intake of M.Tech. CS at IITB? Last year, how many students were admitted under TA category and RA category?
 
 # RA #
 
 1. Let's say that I get into RA, and I am assigned some project X.  
     - Is it mandatory that I do my thesis in the same field?
-    - Assuming the project incharge is ok with me doing my thesis under another prof, in a different field, what are the odds that this discussion and/or situation turns out well? And is there a precedence of such a case?
-1. What happens if a RA project completes/is closed down, (assuming a few RAs are in their middle year of MTech)? Are they reassigned?
-1. Are Mtech(RA) and Msc two separate things ? If yes what is the difference?
+    - Assuming the project in-charge is OK with me doing my thesis under another prof, in a different field, what are the odds that this discussion and/or situation turns out well? And is there a precedence of such a case?
+1. What happens if a RA project completes/is closed down, (assuming a few RAs are in their middle year of M.Tech.)? Are they reassigned?
+1. Are M.Tech.(RA) and MSc. two separate things ? If yes what is the difference?
 1. My understanding is
     
     > RAs are given a short presentation on each of the projects available in the college for RA, students are asked to make a priority list and attend interviews. If you clear the ones you opt for, you get RA.
@@ -23,10 +23,10 @@
 1. Can TA students participate in GSoC without violating the rules?  
     Don't we have summer vacations? What if someone wants to do an internship during that time?  
     ![internship_not_allowed](files/internships.png)
-1. How are the project topic alloted for Mtech TA?  
+1. How are the project topic alloted for M.Tech. TA?  
     - Do we get to choose our own, or the professors give us the specific topic or some list to choose from?  
     - Do we get to choose the area(a particular field) to do project in?
-1. While selecting courses for the sem, what all should one focus on?
+1. While selecting courses for the semester, what all should one focus on?
 
 # Courses #
 
@@ -47,8 +47,8 @@
 
 1. Is there an eligibility criteria for **undergrad %** for placements?
     If someone has a lower %/GPA than this in undergrad, is he debarred from campus placements?
-1. Do Mtech students get offers from abroad?
-1. How do Mtech students get pre-placement offers?
+1. Do M.Tech. students get offers from abroad?
+1. How do M.Tech. students get pre-placement offers?
 
 # Professors #
 
