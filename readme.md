@@ -45,4 +45,5 @@
 
 # Placements #
 
-1. Is there an eligibility criteria for **undergrad %** for placements? If someone has a lower %/GPA that this in undergrad, is he debarred from campus placements?
+1. Is there an eligibility criteria for **undergrad %** for placements?
+    If someone has a lower %/GPA than this in undergrad, is he debarred from campus placements?
