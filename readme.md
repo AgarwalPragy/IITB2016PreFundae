@@ -46,3 +46,5 @@
 # Others #
 
 1. Is there an eligibility criteria for **undergrad %** for placements? If someone has a lower %/GPA that this in undergrad, is he debarred from campus placements?
+1. Do Mtech students get offers from abroad and how do Mtech students get pre placement offers ?
+1. Which profs have good contacts in foreign universities since recommendation from them for PhD will have great value?
